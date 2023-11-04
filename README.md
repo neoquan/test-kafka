@@ -1,3 +1,3 @@
-# test-kafka
+# Kafka - Airflow - Cassandra
 
-# Kafka and Airflow building
+- This is an ETL pipelines for the purpose of testing.

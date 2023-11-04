@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # Remember to add executable rights to this bash script
 # By using: chmod +x start.sh
 
