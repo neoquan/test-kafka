@@ -5,6 +5,8 @@
 
 # To use this .sh => ./start.sh
 
+
+
 # Build the Docker image
 docker compose -f docker-compose-airflow-only.yaml up airflow-init
 
