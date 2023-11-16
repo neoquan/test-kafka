@@ -1,7 +1,7 @@
-lxml
-beautifulsoup4
+# lxml
+# beautifulsoup4
 confluent-kafka
-# cassandra-driver
+cassandra-driver
 # pymongo
 # pyspark==3.4.1
 requests
